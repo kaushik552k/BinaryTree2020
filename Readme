@@ -1,0 +1,11 @@
+This repository has shown the demonstration of binary tree
+
+
+A binary tree is a hierarchical data structure in which each node has at most two children generally referred as left child and right child.
+
+Each node contains three components:
+
+Pointer to left subtree
+Pointer to right subtree
+Data element
+The topmost node in the tree is called the root. An empty tree is represented by NULL pointer.
